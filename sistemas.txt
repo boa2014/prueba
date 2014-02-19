@@ -1,0 +1,7 @@
+../../../sis_almacenes/
+../../../sis_adquisiciones/
+../../../sis_presupuestos/
+../../../sis_migracion/
+../../../sis_contabilidad/
+../../../sis_tesoreria/
+../../../sis_planillas/
